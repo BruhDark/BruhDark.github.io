@@ -738,6 +738,10 @@ video {
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
+.to-red-800 {
+  --tw-gradient-to: #991b1b;
+}
+
 .to-slate-800 {
   --tw-gradient-to: #1e293b;
 }
