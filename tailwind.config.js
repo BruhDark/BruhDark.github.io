@@ -8,6 +8,7 @@ module.exports = {
         'wave-pattern': "url('assets/wave-haikei.svg')",
         'circle-pattern': "url('assets/circle-scatter-haikei.svg')",
         'layered-waves-pattern': "url('assets/layered-waves-haikei.svg')",
+        'layered-peaks-pattern': "url('assets/layered-peaks-haikei.svg')",
       }
     },
   },
